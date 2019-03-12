@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11-mar-2019, 20:49:01
+    Author     : cetecom
+*/
+
+.parrafos{
+    font-size: 20px;
+    color: red;
+    background: white;
+    border-style: solid;
+    border-color: black;
+}
+.parrafo1{
+    font-size: 15px;
+    color: blueviolet;
+    background: red;
+    border-style: solid;
+    border-color: orange;
+}
+#parrafo2{
+    font-size: 20px;
+    color: red;
+    background: white;
+    border-style: solid;
+    border-color: black;
+}
+@media screen and(max-width:450px){
+    .parrafos{
+        font-size: 50px;
+    }
+}
